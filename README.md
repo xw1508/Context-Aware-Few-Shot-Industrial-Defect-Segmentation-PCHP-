@@ -102,3 +102,12 @@ Then commit or upload the generated `review_release/` directory. Make sure
 Note: `.pyc` wheels hide source code from normal repository browsing, but they
 are not cryptographic protection. For stronger protection, compile the model
 with Cython/Nuitka or use a Docker/API-based review package.
+
+## 🙏 Acknowledgments
+
+This project builds upon the following excellent open-source repositories. We sincerely thank the authors for their contributions to the community:
+https://github.com/hhhjjc/MAPTNet
+https://github.com/VDT-2048/CPANet
+https://github.com/JIA-Lab-research/PFENet
+https://github.com/ma-xu/Context-Cluster.
+
