@@ -52,11 +52,6 @@ By default, `run_test.sh` uses:
 config/SSD/fold0_resnet50_test.yaml
 ```
 
-You can pass another config file:
-
-```bash
-bash scripts/run_test.sh config/SSD/fold0_resnet50_test.yaml
-```
 
 ## For the author
 
