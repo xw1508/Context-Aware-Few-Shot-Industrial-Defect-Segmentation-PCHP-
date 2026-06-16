@@ -1,6 +1,14 @@
 # Context-Aware-Few-Shot-Industrial-Defect-Segmentation-PCHP-
 A few-shot industrial defect segmentation framework using context-aware clustering and holistic semantic priors for robust support–query interaction.
 
+## Downloads
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| Pre-trained Weights | ResNet-50 backbone + FSSD-FLA fold0 1-shot best model | [Download](YOUR_WEIGHTS_URL) |
+| FSSD-12 Dataset | Few-shot surface defect detection dataset with 12 categories | [Download](YOUR_DATASET_URL) |
+| ResNet-50 v2 Init | ImageNet pre-trained initialization | [Download](YOUR_INITMODEL_URL) |
+
 
 # Reviewer Execution Guide
 
