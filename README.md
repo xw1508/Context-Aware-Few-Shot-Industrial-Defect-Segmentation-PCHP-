@@ -1,7 +1,7 @@
 # Context-Aware-Few-Shot-Industrial-Defect-Segmentation-PCHP-
 A few-shot industrial defect segmentation framework using context-aware clustering and holistic semantic priors for robust support–query interaction.
 
-This repository provides test programs and results on FSSD, as well as partial images of FLA-FSS. To promote the development of small sample defect detection, all project files (models, training code, and pre training weights) will be fully released after the paper is published to facilitate reproducible research and promote future innovation in this critical field.
+# 🚀 This repository provides test programs and results on FSSD, as well as partial images of FLA-FSS. To promote the development of small sample defect detection, all project files (models, training code, and pre training weights) will be fully released after the paper is published to facilitate reproducible research and promote future innovation in this critical field.
 ### Network Architecture
 
 <div align="center">
