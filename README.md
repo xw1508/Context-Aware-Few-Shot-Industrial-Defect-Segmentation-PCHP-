@@ -5,9 +5,7 @@ A few-shot industrial defect segmentation framework using context-aware clusteri
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| Pre-trained Weights | ResNet-50 backbone + FSSD-FLA fold0 1-shot best model | [Download](YOUR_WEIGHTS_URL) |
-| FSSD-12 Dataset | Few-shot surface defect detection dataset with 12 categories | [Download](YOUR_DATASET_URL) |
-| ResNet-50 v2 Init | ImageNet pre-trained initialization | [Download](YOUR_INITMODEL_URL) |
+| Pre-trained Weights & Dataset | ResNet-50 init, FSSD-FLA weights, FSSD-12 dataset | [Baidu Netdisk](https://pan.baidu.com/s/1HZLAkG-krvDtPuB7bra9FA) (提取码: `qmh6`) |
 
 
 # Reviewer Execution Guide
