@@ -16,8 +16,8 @@ distributed as a precompiled Python wheel.
 - `data_list/`
 - `FSSD-12/`
 - `util/`
-- `initmodel/`
-- `exp/`
+- `initmodel/resnet50_v2.pth`
+- `exp/FSSD_FLA_weight/resnet_fold0_1shot_best_by_class_epoch_101_class0.718550_fb0.843403.pth`
 - `scripts/setup.sh`
 - `scripts/run_test.sh`
 
