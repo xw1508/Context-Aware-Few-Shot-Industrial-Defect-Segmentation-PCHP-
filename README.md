@@ -1,5 +1,38 @@
 # Context-Aware-Few-Shot-Industrial-Defect-Segmentation-PCHP-
 A few-shot industrial defect segmentation framework using context-aware clustering and holistic semantic priors for robust support–query interaction.
+This repository provides testing programs and results on FSSD, as well as partial images of FLA-FSS. All programs will be fully disclosed after the publication of the paper.
+### Network Architecture
+
+<div align="center">
+  <img src="assets/architecture.png" width="85%" alt="PCHP Architecture">
+  <br>
+  <em>Figure 1: Overall framework of the proposed PCHP method.</em>
+</div>
+
+### Quantitative Results on FSSD-12
+
+<div align="center">
+  <img src="assets/results_table.png" width="70%" alt="Quantitative Results">
+  <br>
+  <em>Table 1: Comparison with state-of-the-art few-shot segmentation methods on FSSD-12 dataset.</em>
+</div>
+
+## Dataset
+
+### FLA-FSS Dataset
+
+We introduce the **FLA-FSS (Few-Shot Learning for Automated Factory Surface Segmentation)** dataset, a industrial flange defect segmentation benchmark collected from real manufacturing environments.
+
+> **⚠️ Data Confidentiality Notice:** This paper is currently under review. To ensure the confidentiality and security of the proprietary manufacturing data, the complete FLA-FSS dataset is temporarily withheld from public release. The following samples are provided solely for visual illustration purposes.
+
+### Sample Visualization
+
+<div align="center">
+  <img src="assets/FLA_samples.png" width="90%" alt="FLA-FSS Dataset Samples">
+  <br>
+  <em>Figure 4: Representative samples from the FLA-FSS dataset. Each row shows: (a) original surface image, (b) defect region, and (c) pixel-level annotation mask.</em>
+</div>
+
 
 ## Downloads
 
