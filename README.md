@@ -12,7 +12,7 @@ This repository provides testing programs and results on FSSD, as well as partia
 ### Quantitative Results on FSSD-12
 
 <div align="center">
-  <img src="assets/results_table.png" width="70%" alt="Quantitative Results">
+  <img src="assets/results.png" width="70%" alt="Quantitative Results">
   <br>
   <em>Table 1: Comparison with state-of-the-art few-shot segmentation methods on FSSD-12 dataset.</em>
 </div>
@@ -30,7 +30,7 @@ We introduce the **FLA-FSS (Few-Shot Learning for Automated Factory Surface Segm
 <div align="center">
   <img src="assets/FLA_samples.png" width="90%" alt="FLA-FSS Dataset Samples">
   <br>
-  <em>Figure 4: Representative samples from the FLA-FSS dataset. Each row shows: (a) original surface image, (b) defect region, and (c) pixel-level annotation mask.</em>
+  <em>Figure 4: Representative samples from the FLA-FSS dataset.</em>
 </div>
 
 
