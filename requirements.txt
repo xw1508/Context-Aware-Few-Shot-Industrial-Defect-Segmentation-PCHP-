@@ -1,0 +1,9 @@
+opencv_python==4.9.0.80
+tensorboardx==2.6.4
+torch==2.8.0+cu128
+torchvision==0.23.0+cu128
+tqdm==4.67.1
+numpy==1.26.4
+timm==1.0.22
+einops==0.8.1
+logger==1.4
