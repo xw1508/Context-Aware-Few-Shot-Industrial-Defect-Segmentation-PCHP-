@@ -87,20 +87,4 @@ config/SSD/fold0_resnet50_test.yaml
 ```
 
 
-## For the author
-
-Build the private wheel before publishing the review repository:
-
-```bash
-bash scripts/build_private_wheel.sh
-bash scripts/make_review_release.sh
-```
-
-Then commit or upload the generated `review_release/` directory. Make sure
-`dist/pchp_private_model-*.whl` is included.
-
-Note: `.pyc` wheels hide source code from normal repository browsing, but they
-are not cryptographic protection. For stronger protection, compile the model
-with Cython/Nuitka or use a Docker/API-based review package.
-
 
